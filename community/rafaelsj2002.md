@@ -11,7 +11,7 @@ Olá! Meu nome é Rafael, tenho 21 anos e sou entusiasta na aviação e na area 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5561995282549)
 
 
-##  Habilidades
+##  Habilidades e Ferramentas
 ![Git](https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git&logoColor=E44C30)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
